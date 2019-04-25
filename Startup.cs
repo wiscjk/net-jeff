@@ -14,7 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace DatingApp.API.Data
+namespace DatingApp.API.Models
 {
     public class Startup
     {
